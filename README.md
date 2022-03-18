@@ -14,3 +14,5 @@
 ## Video demonstration
 
 [![sweat-tracker-app-demo-yt](https://img.youtube.com/vi/mF5NUt9wAG8/0.jpg)](https://www.youtube.com/watch?v=mF5NUt9wAG8) 
+
+This a part of the coding challenge exercise from "The Complete JavaScript Course 2021" course.
